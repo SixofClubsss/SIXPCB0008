@@ -1,7 +1,7 @@
-# SIXPCB0001
+# SIXPCB0008
 Playing card back series non-fungible asset(NFA) by ♣♣♣♣♣♣
 
-Copyright 2022 ♣♣♣♣♣♣. All rights reserved.
+Copyright 2022-2023 ♣♣♣♣♣♣. All rights reserved.
 
 SCID: cbc828d00255cd5aebbdb10accda92ef7cc671cbc5be9b05227599527ee0368e
 
